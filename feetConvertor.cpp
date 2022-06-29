@@ -2,7 +2,7 @@
 
 /*
 Coverter Meter To feet and vice versa
-Peter OdrobiÚ·k DATE: 29.6.2022 COMPLETE TIME: 9:20
+Peter Odrobi√≤√°k DATE: 29.6.2022 COMPLETE TIME: 9:20
 */
 
 using namespace std;
