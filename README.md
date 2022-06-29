@@ -1,2 +1,3 @@
 # home-learn-projects-
-my prpjects in c++
+my projects in c++ 
+this is my story how i learn c++ in 2022
